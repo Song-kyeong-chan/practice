@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 I'm thirsty. so i'll go to gubang and drink water.
 dddddffdf
+=======
+여기서 이렇게 해봅ㅁ
+sdsdaas
+sd
+>>>>>>> logintool
